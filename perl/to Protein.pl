@@ -1,4 +1,8 @@
+#This file converts the DNA Fasta file to Protein
  #!/usr/bin/perl
+
+
+
 
 use warnings;
 use strict;
